@@ -23,7 +23,7 @@ function App() {
         </div>
       </main>
       <footer>
-        Page created by Sanna
+        Page created by Sanna 2023
       </footer>
     </div>
   );
