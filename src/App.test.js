@@ -16,6 +16,6 @@ test('renders Valitse päivä on the screen', () => {
 
 test('renders Page created by Sanna on the footer', () => {
   render(<App />);
-  const textElement = screen.getByText(/Page created by Sanna/i);
+  const textElement = screen.getByText(/Page created by Hanna/i);
   expect(textElement).toBeInTheDocument();
 })
